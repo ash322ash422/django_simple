@@ -40,4 +40,3 @@ created virtual environment CPython3.9.9.final.0-64 in 9702ms
 6) At the prompt, type "cd mysite". This would take you inside 'mysite' directory.
 7) At the prompt, "python manage.py migrate". This would create some predefined admin apps that are very helpful. 
 8) At the prompt, type "python manage.py runserver". This would start development server.
-9)fhdsjkfks

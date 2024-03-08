@@ -1,4 +1,4 @@
-# django_work
+# django_simple
  PREREQUISITES:
 A) To get "python" command working on windows so you  do not have to type the whole python path :
    start -> type "Edit environmental variables..." -> select "Advanced" tab and and

@@ -5,6 +5,7 @@ A) To get "python" command working on windows so you  do not have to type the wh
    then click "environmental variables" -> In the "system variables" box "edit" the "PATH" variable -> 
    add 2 "new" PATH= C:\Users\hi\AppData\Local\Programs\Python\Python39\
    and "C:\Users\hi\AppData\Local\Programs\Python\Python39\Scripts\" -> restart.
+   
    B) Install 'git' by going to https://git-scm.com/downloads. Choose between Windows/Linux/Mac OS.
    This would get "git" app and you  would be  able to run git from command line.
 

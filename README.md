@@ -1,5 +1,5 @@
 # django_simple
- PREREQUISITES: 
+ PREREQUISITES: kkk
 A) To get "python" command working on windows so you  do not have to type the whole python path :
    start -> type "Edit environmental variables..." -> select "Advanced" tab and and
    then click "environmental variables" -> In the "system variables" box "edit" the "PATH" variable -> 

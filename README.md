@@ -11,7 +11,7 @@ A) To get "python" command working on windows so you  do not have to type the wh
    This would get "git" app and you  would be  able to run git from command line.
 
 
-1) Open visual-studio-code and goto required directory and open terminal. Clone the 'django_simple' from github to your local machine:
+1) Open visual-studio-code and goto Desktop (or any directory of your choice) and open terminal. Clone the 'django_simple' from github to that directory on your local machine:
    PS C:\Users\hi\Desktop> git clone https://www.github.com/ash322ash422/django_simple
 2) At the prompt, type "cd django_simple" and then type "pip install virtualenv". 
 3) At the prompt, type "virtualenv env"

@@ -16,10 +16,10 @@ A) To get "python" command working on windows so you  do not have to type the wh
 2) At the prompt, type "cd django_simple" and then type "pip install virtualenv". 
 3) At the prompt, type "virtualenv env"
 4) At the prompt, type "pip install "Django==4.2.11". This would install django version 4.2.11
-     You may use different version of django 
+
 5) At the prompt, type " django-admin startproject mysite". This creates a django project called 'mysite'. 
 6) At the prompt, type "cd mysite". This would take you inside 'mysite' directory.
 7) At the prompt, type "python manage.py migrate". This would create some predefined admin apps that are very helpful. 
-8) At the prompt, type "python manage.py runserver 127.0.0.1:8000". This would start development server on local machine port number 8000.
+8) At the prompt, type "python manage.py runserver 0.0.0.0:8000". This would start development server on local machine port number 8000.
 9) Go to web browser and type '127.0.0.1:8000'. You will see django welcome page. Congratulations!!!!!
 

@@ -1,6 +1,8 @@
-0) To get "python" command working on windows : start -> type "Edit environmental variables..." -> select "Advanced" tab and and
- then click "environmental variables" -> In the "system variables" box "edit" the "PATH" variable -> add 2 "new" PATH= C:\Users\hi\AppData\Local\Programs\Python\Python39\
- and "C:\Users\hi\AppData\Local\Programs\Python\Python39\Scripts\" -> restart. 
+0) To get "python" command working on windows so you  do not have to type the whole python path :
+   start -> type "Edit environmental variables..." -> select "Advanced" tab and and
+   then click "environmental variables" -> In the "system variables" box "edit" the "PATH" variable -> 
+   add 2 "new" PATH= C:\Users\hi\AppData\Local\Programs\Python\Python39\
+   and "C:\Users\hi\AppData\Local\Programs\Python\Python39\Scripts\" -> restart. 
 1) create folder "django_hello_proj"
 2) open the terminal in the above folder and at the prompt, type "pip install virtualenv" 
 If you are installing virtualenv for the first time, then you would see following output:

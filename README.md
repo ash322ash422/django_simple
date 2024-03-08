@@ -48,5 +48,6 @@ created virtual environment CPython3.9.9.final.0-64 in 9702ms
 5) At the prompt, type " django-admin startproject mysite". This creates a django project called 'mysite'. 
 6) At the prompt, type "cd mysite". This would take you inside 'mysite' directory.
 7) At the prompt, "python manage.py migrate". This would create some predefined admin apps that are very helpful. 
-8) At the prompt, type "python manage.py runserver". This would start development server.
+8) At the prompt, type "python manage.py runserver 127.0.0.1:8000". This would start development server on local machine port number 8000.
+9) Go to web browser and type '127.0.0.1:8000'. Congratulations!!!!!
 

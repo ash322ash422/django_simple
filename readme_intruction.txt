@@ -8,12 +8,12 @@ B) Install 'git' by going to https://git-scm.com/downloads. Choose between Windo
    This would get "git" app and you  would be  able to run git from command line.
 
 
-1) Clone the 'django_simple' from github to your local machine:
-   PS C:\Users\hi\Desktop\projects> git clone https://www.github.com/ash322ash422/django_simple
-2) In visual Code, open the terminal in the above folder and at the prompt, type "pip install virtualenv" 
+1) Open visual-studio-code and goto required directory and open terminal. Clone the 'django_simple' from github to your local machine:
+   PS C:\Users\hi\Desktop\projects\visual_studio_projects> git clone https://www.github.com/ash322ash422/django_simple
+2) At the prompt, type "cd django_simple" and then type "pip install virtualenv". 
 If you are installing virtualenv for the first time, then you would see following output:
 **************************************************************************************************
-PS C:\Users\hi\Desktop\projects\visual_studio_projects\\django_simple> pip install virtualenv
+PS C:\Users\hi\Desktop\projects\django_simple> pip install virtualenv
 Collecting virtualenv
   Downloading virtualenv-20.25.1-py3-none-any.whl.metadata (4.4 kB)
 Collecting distlib<1,>=0.3.7 (from virtualenv)
